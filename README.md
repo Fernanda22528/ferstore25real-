@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Store25 Real - Linktree</title>
+  <title>Fer Store25 Real - Linktree</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
@@ -62,7 +62,7 @@
 <body>
   <div class="profile">
     <img src="https://via.placeholder.com/100" alt="Fer Store25 Real">
-    <h1>Store25 Real</h1>
+    <h1>Fer Store25 Real</h1>
     <p>Toko online terbaik untuk kebutuhan fashion & lifestyle kamu.</p>
   </div>
 
@@ -73,6 +73,6 @@
     <a href="https://wa.me/62895338553361" target="_blank">🛒 WhatsApp</a>
   </div>
 
-  <footer>© 2025 Store25 Real</footer>
+  <footer>© Fer Store25 Real</footer>
 </body>
 </html>
